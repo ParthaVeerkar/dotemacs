@@ -1,0 +1,6 @@
+# contributor: Partha <partha.veerkar@gmail.com>
+# name: Div Element
+# --
+<div id="$1">
+$0
+</div>

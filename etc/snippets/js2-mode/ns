@@ -1,0 +1,9 @@
+# contributor: Partha <partha.veerkar@gmail.com>
+# name: namespace
+# --
+var ${1:namespace} = {
+init: function() {
+$0
+}
+};
+window.onload=$1.init();

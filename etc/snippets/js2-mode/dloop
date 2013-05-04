@@ -1,0 +1,9 @@
+# contributor: Partha <partha.veerkar@gmail.com>
+# name: Delayed loop
+# --
+var __delayLoop = document.setInterval(function () {
+if(${1:condition to stop loop}) {
+clearInterval(__delayLoop);
+}
+$0
+}, ${2:200});

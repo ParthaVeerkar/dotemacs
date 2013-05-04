@@ -1,0 +1,5 @@
+# contributor: Partha <partha.veerkar@gmail.com>
+# name: Image tag
+# --
+<img src="$1" />
+$0

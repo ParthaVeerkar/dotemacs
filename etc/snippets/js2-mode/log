@@ -1,4 +1,5 @@
-# contributor: Prajwalit <contact@prajwalit.com>
-# name: Y.log
+# contributor: Partha <partha.veerkar@gmail.com>
+# name: Console Log
 # --
-Y.log($0);
+console.log("$1: " + $1);
+$0

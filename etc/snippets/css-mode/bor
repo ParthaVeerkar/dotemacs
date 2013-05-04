@@ -1,0 +1,5 @@
+# contributor: Partha <partha.veerkar@gmail.com>
+# name: border
+# --
+border: ${1:2}px ${2:solid} ${3:black};
+$0

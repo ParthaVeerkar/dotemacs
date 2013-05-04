@@ -1,9 +1,7 @@
-My Emacs Setup
-================
-Forked from BG's Setup
-(https://github.com/ghoseb/dotemacs)
+# My Emacs Setup #
 
-A fresh approach to managing my Emacs setup.
-*Still a work in progress.*
+Forked from [Prajwalit's emacs setup](https://github.com/prajwalit/dotemacs).
 
-Inspired by the work of Sam Aaron.
+## Acknowledgements ##
+
+Based on the work of [Sam Aaron](https://github.com/overtone/emacs-live).

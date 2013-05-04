@@ -1,0 +1,5 @@
+# contributor: Partha <partha.veerkar@gmail.com>
+# name: Add Event Listener
+# --
+document.getElementById("$1").addEventListener("${2:click}",$3,false);
+$0

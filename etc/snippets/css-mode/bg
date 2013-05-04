@@ -1,0 +1,5 @@
+# contributor: Partha <partha.veerkar@gmail.com>
+# name: background-color
+# key: bg
+# --
+background-color: ${1:white};

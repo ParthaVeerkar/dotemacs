@@ -1,0 +1,4 @@
+# contributor: Partha <partha.veerkar@gmail.com>
+# name: Class
+# --
+class= " $1 "

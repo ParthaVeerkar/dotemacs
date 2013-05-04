@@ -1,0 +1,6 @@
+# contributor: Partha <partha.veerkar@gmail.com>
+# name: List item
+# --
+<li id="$1" class="$2">
+$0
+</li>

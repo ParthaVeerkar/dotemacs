@@ -1,0 +1,5 @@
+# contributor: Partha <partha.veerkar@gmail.com>
+# name: cursor
+# --
+cursor: ${1:pointer};
+$0
